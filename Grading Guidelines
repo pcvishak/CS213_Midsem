@@ -2,7 +2,7 @@ First question - Part (a)   Sum of numbers
 --------------------------------------------
 
 
-0 marks if the student is generally clueless. 
+0 marks if the solution is totally incorrect. 
 5 marks if the student gets the Prutor test cases passed and also has a decent implementation
 1 marks if the student does not get the Prutor test cases passed but has a decent implementation (close)
 0 marks if the student does not get the Prutor test cases passed and does something weird or -
@@ -16,7 +16,7 @@ Total 10
 First Question - Part (b)  Find two numbers that add up to given k
 -------------------------------------------------------------------
 
-0 marks if the student is generally clueless.
+0 marks if the solution is totally incorrect.
 5 marks if all test cases are passed and also has a decent implementation.
 3 marks if test cases failed, but close (minor fixes could get all the test cases passed)
 1 mark  if test cases failed, but could get some test cases passed with minor fixes.
@@ -38,7 +38,7 @@ Second question -- Doubly Linked List
 ----------------------------------------
 
 
-0 marks if the student is generally clueless. 
+0 marks if the solution is totally incorrect. 
 6 marks if the student gets the Prutor test cases passed and also has a decent implementation
 3 marks if the student makes mistakes in case like 1 1 2 1 1 (where he/she compares value match)
 2 marks if the  student does not get the Prutor test cases passed but has a decent implementation (close)
@@ -50,7 +50,7 @@ Total 8
 Third question - Mountain Stack
 ------------------------------------------------
 
-0 marks if the student is generally clueless. 
+0 marks if the solution is totally incorrect. 
 10 marks if the student gets the Prutor test cases passed and also has a decent implementation
 8 marks if the  student does not get the Prutor test cases passed  but has a decent implementation (close)
 2 marks if the  student does not get the Prutor test cases passed  and does something weird (e.g. uses recursion and takes the gfk solution)
