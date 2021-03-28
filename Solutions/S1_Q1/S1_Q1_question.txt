@@ -1,0 +1,22 @@
+Preamble (Meta Points):
+
+Coding language:  C++ or Python3
+Goal:  Ability to do basic recursion, problem solving, ability to read a question and understand.
+Difficulty: Easiest question
+Note: We may add additional private cases after the exam concludes. So passing all test cases here does not guarantee full credits.
+
+Problem:
+Assume that "n" is a power of 2. Consider the following algorithm on a sequence A of "n" space separated integers given as input.
+
+(a) B is half the size of A and its value at index "i" is the sum of A[2i] and A[2i+i].
+(b) If B is of size 1, return the value of B[0]. Otherwise, repeat the process from step (a) with A being considered as the array B.
+
+Constraint: You can use any data structure of your choice to hold A. 
+
+
+Tasks:
+1. Write a recursive function "solve(A)" to implement the algorithm.
+2. What data structure did you use for A and why?
+3. State compactly the purpose of the algorithm as a mathematical function. Explain.
+4. What is the complexity of the algorithm? Do you have a faster algorithm? Explain.
+5. Is your code tail recursive? Why or why not?

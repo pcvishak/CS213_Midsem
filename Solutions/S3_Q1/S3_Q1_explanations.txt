@@ -1,0 +1,2 @@
+1. We push the n/2 elements onto an auxillary stack st1. Then push the auxillary stack onto another auxillary stack st2. Then we add st2 onto the original stack. Hence we achieve the solution using 2 additional stacks.
+2. Running time and extra space used is both O(n)

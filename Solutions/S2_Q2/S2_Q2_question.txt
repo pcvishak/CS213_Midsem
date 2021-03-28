@@ -1,0 +1,24 @@
+Preamble (Meta Points)
+
+Coding Language: C++
+Provided: Singly Linked List
+Constraints:  Cannot use any other data structure
+Goal:  Ability to do basic programming.  (May reward people who have done this in some other course).
+Note: We may add additional private cases after the exam concludes. So passing all test cases here does not guarantee full credits.
+
+
+Written Questions: 
+What is the running time and memory space of your algorithm? Write it in the answer sheet.
+           
+
+
+Task:
+
+A 'taash' (Hindi for the normal playing cards) shuffle is a permutation of 2n items in a linked list where the first item in the permutation is a_0, the second is a_n, the third is a_1, the fourth is a_{n+1}, and so on.
+
+Input: A linked list L1 with 2n data items as integers.
+Output: A new linked list L2 which has the data items as a card shuffle
+
+You are expected to code the function: std::list<int> shuffle(std::list<int> &L1). 
+Note the case and spelling for the function name.
+Your code should not modify the main function.

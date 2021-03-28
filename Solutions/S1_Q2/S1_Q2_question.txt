@@ -1,0 +1,27 @@
+Preamble (Meta Points):
+
+Coding language: C++ or Python3
+Goal:  Ability to understand recursion, problem solving, ability to read code and understand.
+Difficulty: Medium
+Note: We may add additional private cases after the exam concludes. So passing all test cases here does not guarantee full credits.
+
+Written Questions:  See Inline.
+
+Consider the following algorithm Q(A, i, j, k)
+
+Input #1: An integer subset of an ordered sequence A of "n" integers with
+indices i, and j (and 0 <= i <= j <= n-1)
+
+Input #2: An integer k.
+
+if i == j return false.
+else
+  if A[i] + A[j] < k then return Q(A, i+1, j, k)
+  if A[i] + A[j] > k then return Q(A, i, j-1, k)
+  if neither of the above return true.
+
+Write a recursive function to implement the algorithm
+What data structure did you use for A and why.
+What is the running time of the algorithm. Explain.
+What is the algorithm doing?  Explain.  Do you have a faster algorithm for the same problem
+Is your code tail recursive? Explain.

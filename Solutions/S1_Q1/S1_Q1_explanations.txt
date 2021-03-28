@@ -1,0 +1,4 @@
+2. C style Array has been used but I suggest vector. Can use array also, no penalty. 
+3. Summing up the entries of the array in a recursive manner.
+4. Faster algorithm: Sum up entries in linear time in a non-recursive manner. This algorithm is linear as is. The faster algorithm is only a constant factor better than the given one.
+5. Yes, recursive calls are made at the end.

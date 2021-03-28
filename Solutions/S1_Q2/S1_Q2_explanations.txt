@@ -1,0 +1,5 @@
+(b) Python list.
+(c) O(n): Two pointers sweeping the array. Can prove inductively
+(d) Finding if there are two elements in the ordered sequence summing up to k.
+    Faster algorithm: Asymptotically not possible. Constant factor optimisations could be done.
+(e) Yes, recursive calls are made at the end.

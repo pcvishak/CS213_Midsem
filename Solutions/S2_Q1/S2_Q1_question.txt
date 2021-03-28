@@ -1,0 +1,20 @@
+Preamble (Meta Points)
+
+Coding language: Python3 (only python is allowed)
+Provided: Double Linked List Stub.
+Goal:  Ability to do basic programming.  (May reward people who have gone through the posted code, and give them some advantage).
+Note: We may add additional private cases after the exam concludes. So passing all test cases here does not guarantee full credits.
+
+Written Questions: 
+What is the running time and memory space of your algorithm? Write it in the answer sheet.
+
+
+Task:
+
+Use the posted code for _DoublyLinkedBase class to find the middle element of a doubly linked list which has an odd number of items.
+
+Constraint: You cannot use a counter to count. You should use simply the provided ADT.  No other ADT is allowed.  No recursion is allowed or expected.
+
+You are expected to code a member function for _DoublyLinkedBase class with the following signature:
+             middle(self) 
+and returns the middle element(that is an object of _Node class). Here the linked list referred by self is guaranteed that it has the odd number of elements. Note the case and spelling and ensure it is the same.

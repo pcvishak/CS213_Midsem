@@ -1,0 +1,72 @@
+First question - Part (a)   Sum of numbers
+--------------------------------------------
+
+
+0 marks if the student is generally clueless. 
+5 marks if the student gets the Prutor test cases passed and also has a decent implementation
+1 marks if the student does not get the Prutor test cases passed but has a decent implementation (close)
+0 marks if the student does not get the Prutor test cases passed and does something weird or -
+   			Copy pasted the code from any source.
+
+Written : 1 + 1 + 2 + 1 (data structure -- vector/ array, purpose of the mathematical function -- finding the sum of the array, complexity of the algorithm & possible reduction -- O(N), yes, we can reduce if we use linear way but still O(N), is the code tail recursive?)
+
+Total 10
+
+
+First Question - Part (b)  Find two numbers that add up to given k
+-------------------------------------------------------------------
+
+0 marks if the student is generally clueless.
+5 marks if all test cases are passed and also has a decent implementation.
+3 marks if test cases failed, but close (minor fixes could get all the test cases passed)
+1 mark  if test cases failed, but could get some test cases passed with minor fixes.
+
+Written : ½ + ½  + 1 + 1 + 2
+	   (Data structure used - 1 + Tail recursive (total of 1)
+	    Running time - O(N), where N is the size of the input - 1
+	    Purpose of the algorithm - Check if 2 elements in the list adds to ‘k’ 1 mark
+	    Speed of algorithm: faster algorithm: Asymptotically not possible. 
+Constant factor optimisations could be done - 2
+
+Total marks 5 + 5 = 10
+
+(Note : pasting code in the written part  = 0 for written
+             1st qn without using recursion = 0)
+
+
+Second question -- Doubly Linked List
+----------------------------------------
+
+
+0 marks if the student is generally clueless. 
+6 marks if the student gets the Prutor test cases passed and also has a decent implementation
+3 marks if the student makes mistakes in case like 1 1 2 1 1 (where he/she compares value match)
+2 marks if the  student does not get the Prutor test cases passed but has a decent implementation (close)
+0 marks if the  student does not get the Prutor test cases passed and does something weird (e.g. uses count and takes the gfk solution https://www.geeksforgeeks.org/write-a-c-function-to-print-the-middle-of-the-linked-list/)
+1 + 1 for written solution - time is proportional to number of elements and space O(1)
+Total 8
+
+
+Third question - Mountain Stack
+------------------------------------------------
+
+0 marks if the student is generally clueless. 
+10 marks if the student gets the Prutor test cases passed and also has a decent implementation
+8 marks if the  student does not get the Prutor test cases passed  but has a decent implementation (close)
+2 marks if the  student does not get the Prutor test cases passed  and does something weird (e.g. uses recursion and takes the gfk solution)
+
+4 marks for written essay: 2 marks for why correct, 2 mark for time and space complexity (extra) (1 each)
+
+4 marks for using array for correct implementation (code)
+
+8: given output in reverse
+
+4: given for reversing the stack
+
+6: logic correct but code did not compile
+
+4: logic close to correct. Like using 3 stacks and taking the two halves separately etc.
+
+
+
+

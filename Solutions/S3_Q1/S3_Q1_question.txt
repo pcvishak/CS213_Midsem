@@ -1,0 +1,29 @@
+Preamble (Meta Points)
+
+Coding language: C++
+Provided:  Stack
+Goal:  Ability to do creative thinking and using concepts taught in a class about ADT. 
+
+Written Questions: 
+How do you show your algorithm is correct? Explain your method (no need for formal proof). 
+What is the running time and memory space of your algorithm.
+
+
+Input:  A sequence S of characters of unknown length (but always odd).
+
+Constraints: 
+Only data structure available is stack.  Linked list, array etc are all strictly forbidden
+One counter variable is  allowed.  
+Recursion is not permitted. 
+Additional memory is permitted.
+
+
+Task:
+
+1. See code provided: It pushes the sequence S (available as input) onto a stack S. Note that the input is a sequence of odd no. of characters, and no ordering is available  i.e. we cannot say character a is less than character b.
+2. Write more code.
+
+Output:  The characters (after Step 2) are now in mountain order i.e. if S
+contains  a, b, c, d, e, f, g, h, i, with i on top of the stack after Step 1, then after
+Step 2, S contains   f , g, h, i, e, d, c, b, a
+Note that the relative position of the pivot element e is unchanged (it was in the middle and it remains in the same position.
