@@ -5,8 +5,7 @@ First question - Part (a)   Sum of numbers
 0 marks if the solution is totally incorrect. 
 5 marks if the student gets the Prutor test cases passed and also has a decent implementation
 1 marks if the student does not get the Prutor test cases passed but has a decent implementation (close)
-0 marks if the student does not get the Prutor test cases passed and does something weird or -
-   			Copy pasted the code from any source.
+0 marks if the student does not get the Prutor test cases passed and does something weird or Copy pasted the code from any source.
 
 Written : 1 + 1 + 2 + 1 (data structure -- vector/ array, purpose of the mathematical function -- finding the sum of the array, complexity of the algorithm & possible reduction -- O(N), yes, we can reduce if we use linear way but still O(N), is the code tail recursive?)
 
@@ -25,7 +24,7 @@ Written : ½ + ½  + 1 + 1 + 2
 	   (Data structure used - 1 + Tail recursive (total of 1)
 	    Running time - O(N), where N is the size of the input - 1
 	    Purpose of the algorithm - Check if 2 elements in the list adds to ‘k’ 1 mark
-	    Speed of algorithm: faster algorithm: Asymptotically not possible. 
+	    Speed of algorithm: faster algorithm: Asymptotically not possible.)
 Constant factor optimisations could be done - 2
 
 Total marks 5 + 5 = 10
